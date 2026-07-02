@@ -1,0 +1,4 @@
+interface:
+  display_name: "Flat Minimal"
+  short_description: "Quiet outline-less enclave UI taste"
+  default_prompt: "Use $flat-minimal to polish this page into a quiet, structured, outline-less minimal interface."

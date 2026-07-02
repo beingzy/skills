@@ -1,9 +1,9 @@
 ---
-name: flat-minimal-style
+name: flat-minimal
 description: Use when polishing websites, landing pages, brand kits, docs pages, public product pages, or product-adjacent UI toward a quiet, flat, minimal style with outline-less enclaves, calm spacing, factual brand fidelity, and restrained information density. Pair with taste/design-taste-frontend and impeccable when the user asks for premium, chill, quiet, balanced, minimal, external-facing, or brand-system polish.
 ---
 
-# Flat Minimal Style
+# Flat Minimal
 
 This skill is a preference overlay. Use it with broader design skills such as `design-taste-frontend`, `impeccable`, or project brand guidelines. It defines what "good" should feel like: quiet, exact, structured, self-contained, and informative without noise.
 

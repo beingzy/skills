@@ -1,4 +1,4 @@
-# Flat Minimal Style Patterns
+# Flat Minimal Patterns
 
 Use this reference when implementing layout, spacing, and visual polish.
 
