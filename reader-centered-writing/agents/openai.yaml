@@ -1,0 +1,4 @@
+interface:
+  display_name: "Reader-Centered Writing"
+  short_description: "Shape understanding across passages and series"
+  default_prompt: "Use $reader-centered-writing to plan or revise this nonfiction piece around the reader's changing understanding."
